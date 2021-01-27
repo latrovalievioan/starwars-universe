@@ -1,5 +1,4 @@
 import Entity from "./Entity";
-import Starship from "./Starship";
 
 export default class StarWarsUniverse {
   constructor() {

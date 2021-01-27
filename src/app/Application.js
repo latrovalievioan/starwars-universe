@@ -1,5 +1,6 @@
 import config from "../config";
 import EventEmitter from "eventemitter3";
+import StarWarsUniverse from "../app/custom/StarWarsUniverse";
 
 const EVENTS = {
   APP_READY: "app_ready",
